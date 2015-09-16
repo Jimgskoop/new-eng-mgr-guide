@@ -8,3 +8,5 @@ frequency, artifacts, etc.?]
 **Reasoning:** [explain the value of this management pattern.]
 
 **Ways This Fails:** [describe how this breaks, and/or what antipatterns may crop up.]
+
+**For Further Reading:** [list resources to learn more about this-- blogs, books, videos, etc.]
