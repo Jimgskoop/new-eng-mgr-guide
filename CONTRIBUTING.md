@@ -1,0 +1,1 @@
+To get started, <a href="https://www.clahub.com/agreements/Jimgskoop/new-eng-mgr-guide">please sign the Contributor License Agreement</a>.
